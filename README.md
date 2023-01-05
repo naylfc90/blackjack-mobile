@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack Mobile Application - React Native/Expo
 
 Expo managed Blackjack mobile application created using React Native.
 
